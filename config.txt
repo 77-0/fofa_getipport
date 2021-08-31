@@ -1,0 +1,6 @@
+{
+    "fofa-user": {
+        "email": "1056068213@qq.com",
+        "key": "f9836b3c329ef339c7db02b527c460c6"
+    }
+}
